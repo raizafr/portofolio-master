@@ -50,7 +50,7 @@ const Skills = () => {
                 </div>
                 <div className="font-semibold my-4">
                     <div className="mb-2">
-                        Framework
+                        Other
                     </div>
                     <hr />
                 </div>

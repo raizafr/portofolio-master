@@ -6,7 +6,7 @@ import github from "../aset/github.png";
 const About = () => {
   return (
     <main>
-      <div className="text-8xl font-bold md:px-52 sm:px-20 py-10 text-gray-500">
+      <div className="text-6xl lg:text-8xl font-bold md:px-52 sm:px-20 py-10 text-gray-500">
         ABOUT
       </div>
       <div className="container mx-auto md:px-36 space-x-9 md:flex">

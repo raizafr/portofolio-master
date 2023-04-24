@@ -4,7 +4,7 @@ import gmail from "../aset/gmail.png";
 const Contact = () => {
   return (
     <section id="contact">
-      <div className="text-8xl font-bold md:px-52 sm:px-20 py-10 text-gray-500">
+      <div className="text-6xl lg:text-8xl font-bold md:px-52 sm:px-20 py-10 text-gray-500">
         CONTACT
       </div>
       <div className="container mx-auto md:px-36 space-y-3 my-4 mb-5">
